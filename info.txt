@@ -1,0 +1,5 @@
+Transliterator folder - solution for 1 problem with unit tests and example of work
+Result of work Transliterator - only project with example of working
+CopyCollector folder - solution for second problem with tests
+Folders for CopyCollector folder - folder Core contain result of working CopyCollector
+								   folder Core (default) contain filders and files befor working CopyCollector

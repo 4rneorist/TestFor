@@ -1,0 +1,16 @@
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\CopyCollectorTest.dll
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\CopyCollectorTest.pdb
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\CopyCollector.exe
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\CopyCollector.pdb
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\CopyCollector.exe.config
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\obj\Debug\CopyCollectorTest.csprojResolveAssemblyReference.cache
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\obj\Debug\CopyCollectorTest.csproj.CoreCompileInputs.cache
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\obj\Debug\CopyCollectorTest.dll
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollectorTest\obj\Debug\CopyCollectorTest.pdb

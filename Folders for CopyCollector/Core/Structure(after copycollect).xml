@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<directory DirName="Core">
+  <file>Structure(before copycollect).xml</file>
+  <directory DirName="COPY">
+    <file>1 contain a(from-dir--forth-fold-Date-01-39-00--17-02-2018).txt</file>
+    <file>2 contain a(from-dir--firstfold-Date-01-39-00--17-02-2018).txt</file>
+    <file>2 contain a(from-dir--forth-fold-Date-01-39-00--17-02-2018).txt</file>
+    <file>2 contains b(from-dir--second fold-Date-01-39-00--17-02-2018).txt</file>
+  </directory>
+  <directory DirName="firstfold">
+    <file>1 contain a.txt</file>
+    <file>1 diff.txt</file>
+  </directory>
+  <directory DirName="forth-fold">
+    <file>1 diff.txt</file>
+    <file>uniq1.txt</file>
+  </directory>
+  <directory DirName="second fold">
+    <file>1 contains b.txt</file>
+    <file>1 diff.txt</file>
+  </directory>
+  <directory DirName="third_Fold">
+    <file>1 diff.txt</file>
+    <file>uniq2.txt</file>
+  </directory>
+</directory>

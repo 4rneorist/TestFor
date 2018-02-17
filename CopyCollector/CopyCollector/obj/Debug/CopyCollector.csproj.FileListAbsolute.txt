@@ -1,0 +1,7 @@
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollector\bin\Debug\CopyCollector.exe.config
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollector\bin\Debug\CopyCollector.exe
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollector\bin\Debug\CopyCollector.pdb
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollector\obj\Debug\CopyCollector.csproj.CoreCompileInputs.cache
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollector\obj\Debug\CopyCollector.exe
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollector\obj\Debug\CopyCollector.pdb
+C:\Users\Yorki\source\repos\CopyCollector\CopyCollector\obj\Debug\CopyCollector.csprojResolveAssemblyReference.cache

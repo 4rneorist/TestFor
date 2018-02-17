@@ -1,0 +1,9 @@
+C:\Users\Yorki\source\repos\Transliterator\Transliterator\bin\Debug\netstandard2.0\Transliterator.deps.json
+C:\Users\Yorki\source\repos\Transliterator\Transliterator\bin\Debug\netstandard2.0\Transliterator.dll
+C:\Users\Yorki\source\repos\Transliterator\Transliterator\bin\Debug\netstandard2.0\Transliterator.pdb
+C:\Users\Yorki\source\repos\Transliterator\Transliterator\obj\Debug\netstandard2.0\Transliterator.csproj.CoreCompileInputs.cache
+C:\Users\Yorki\source\repos\Transliterator\Transliterator\obj\Debug\netstandard2.0\Transliterator.AssemblyInfoInputs.cache
+C:\Users\Yorki\source\repos\Transliterator\Transliterator\obj\Debug\netstandard2.0\Transliterator.AssemblyInfo.cs
+C:\Users\Yorki\source\repos\Transliterator\Transliterator\obj\Debug\netstandard2.0\Transliterator.dll
+C:\Users\Yorki\source\repos\Transliterator\Transliterator\obj\Debug\netstandard2.0\Transliterator.pdb
+C:\Users\Yorki\source\repos\Transliterator\Transliterator\obj\Debug\netstandard2.0\Transliterator.csprojResolveAssemblyReference.cache
